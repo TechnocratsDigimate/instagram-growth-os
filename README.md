@@ -20,7 +20,7 @@ because every other Instagram AI tool is built for American English.
 **Easiest: paste this into Claude**
 
 ```
-https://github.com/GITHUB_USER/instagram-growth-os
+https://github.com/TechnocratsDigimate/instagram-growth-os
 
 Install these skills, then set up my account with /insta-account.
 ```
@@ -28,14 +28,14 @@ Install these skills, then set up my account with /insta-account.
 **Claude Code**
 
 ```bash
-git clone https://github.com/GITHUB_USER/instagram-growth-os.git
+git clone https://github.com/TechnocratsDigimate/instagram-growth-os.git
 cp -r instagram-growth-os/skills/insta-* ~/.claude/skills/
 ```
 
 **As a plugin**
 
 ```
-/plugin marketplace add GITHUB_USER/instagram-growth-os
+/plugin marketplace add TechnocratsDigimate/instagram-growth-os
 /plugin install instagram-growth-os
 ```
 
