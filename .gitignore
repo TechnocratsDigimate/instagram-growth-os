@@ -1,0 +1,9 @@
+# Real account profiles are private. Only the template and examples ship.
+accounts/*
+!accounts/_template.md
+!accounts/example-*.md
+private/
+*.csv
+*.tsv
+__pycache__/
+.DS_Store

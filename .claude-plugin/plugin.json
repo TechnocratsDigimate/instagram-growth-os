@@ -1,0 +1,10 @@
+{
+  "name": "instagram-growth-os",
+  "description": "10 Claude skills that run an Instagram account in English or Hinglish: scored hooks across 31 formulas, Reel scripts with timed beat sheets, a caption linter, a humanizer, competitor outlier research, weekly plans, an Insights audit with follower-health check, DM lead flows and a profile score. Multi-account.",
+  "version": "1.0.0",
+  "author": { "name": "Gautam Punj", "url": "https://gautampunj.com" },
+  "homepage": "https://github.com/GITHUB_USER/instagram-growth-os",
+  "repository": "https://github.com/GITHUB_USER/instagram-growth-os",
+  "license": "MIT",
+  "keywords": ["instagram", "reels", "hinglish", "india", "hooks", "content", "marketing", "lead-generation"]
+}

@@ -1,0 +1,15 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "instagram-growth-os",
+  "description": "Instagram Growth OS by Gautam Punj",
+  "owner": { "name": "Gautam Punj", "url": "https://gautampunj.com" },
+  "plugins": [
+    {
+      "name": "instagram-growth-os",
+      "description": "10 Claude skills that run an Instagram account in English or Hinglish: scored hooks, Reel scripts, captions, humanizer, competitor research, weekly plans, Insights audit, DM lead flows, profile score.",
+      "source": "./",
+      "category": "productivity",
+      "homepage": "https://github.com/GITHUB_USER/instagram-growth-os"
+    }
+  ]
+}
